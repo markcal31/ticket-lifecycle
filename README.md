@@ -176,6 +176,10 @@ From the Installation Files, download and install HeidiSQL
 <br>- Create a database called “osTicket” </b>
 </p>
 
+![image](https://github.com/user-attachments/assets/84108d2e-c04c-4a83-8fe4-6d8e4eb527e5)
+
+![image](https://github.com/user-attachments/assets/8c7ad445-35d6-41ca-a1f2-f742315a3e18)
+
 <p>
 Continue Setting up osticket in the browser
 <br>- MySQL Database: osTicket </b>
